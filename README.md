@@ -1,6 +1,8 @@
 # Rime
 My own rime setup / 自建中州韵输入引擎输入方案
 
+*2025/11/01：* 已改用 [雾凇拼音](https://github.com/iDvel/rime-ice) + 部分词库，此项目不再适用。存档做历史参考。
+
 ## Description
 基本上是源于 [huaxianyan/Rime](https://github.com/huaxianyan/Rime) 和 [alswl/Rime](https://github.com/alswl/Rime) 二位的改版，略微调整了一下词库和 Weight。
 
